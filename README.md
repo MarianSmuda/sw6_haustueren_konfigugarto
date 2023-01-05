@@ -1,1 +1,1 @@
-# sw6_haustueren_konfigugarto
+# sw6_haustueren_konfigurstor 
